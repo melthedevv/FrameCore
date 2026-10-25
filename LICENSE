@@ -1,1 +1,27 @@
+FrameCore
+Copyright (c) 2026 melthedev. All rights reserved.
 
+FrameCore is proprietary software. No part of this software, including its
+source code, panel files, ExtendScript, documentation, and brand assets, may be
+copied, modified, merged, published, distributed, sublicensed, sold, or used to
+create derivative works without the prior written permission of the copyright
+holder.
+
+You may install and use a copy of FrameCore for your own work. You may not
+redistribute it, bundle it with another product, or make it available to third
+parties.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Third-party components:
+
+- Orbitron and Inter are bundled under the SIL Open Font License 1.1. The
+  licence texts are in assets/fonts/OFL-Orbitron.txt and
+  assets/fonts/OFL-Inter.txt. They remain under the OFL and are not covered by
+  the proprietary notice above.
+- Adobe, After Effects, and related marks are trademarks of Adobe.
