@@ -1,16 +1,16 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/logo/png/framecore-lockup-dark-1600.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/logo/png/framecore-lockup-light-1600.png">
-    <img src="assets/logo/png/framecore-lockup-light-1600.png" alt="FrameCore" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://links.moonlit.onl/uploads/1792964177957-e0u292.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://links.moonlit.onl/uploads/1792964709672-soqtpc.png">
+    <img src="https://links.moonlit.onl/uploads/1792964709672-soqtpc.png" alt="FrameCore" width="100%">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/logo/tiles/tile-dark-1024.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/logo/tiles/tile-light-1024.png">
-    <img src="assets/logo/tiles/tile-light-1024.png" alt="FrameCore" width="260">
+    <source media="(prefers-color-scheme: dark)" srcset="https://links.moonlit.onl/uploads/1792964160493-sidp8g.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://links.moonlit.onl/uploads/1792964159132-qddiag.png">
+    <img src="https://links.moonlit.onl/uploads/1792964159132-qddiag.png" alt="FrameCore" width="260">
   </picture>
 </p>
 
@@ -34,7 +34,7 @@ No second application, no exporting between tools, and no manual keyframing.
 
 ## Availability
 
-**Release candidate, not yet published.** Version `0.9.0` is complete and in testing. There is no public download and no signed build yet. Release builds will be published on the [releases page](https://github.com/melthedevv/FrameCore/releases).
+**Release candidate, not yet published.** Version `0.9.0` is complete and in testing. There is no public download and no signed build yet. Release builds will be published on the [project page](https://github.com/melthedevv/FrameCore).
 
 ## How it works
 
@@ -82,7 +82,7 @@ Both modes produce the same animation. A single toggle decides whether you keep 
 
 FrameCore installs as an After Effects panel. Step-by-step instructions for Windows and macOS are in [`docs/INSTALL.md`](docs/INSTALL.md).
 
-No signed build is published yet, so the current test build needs a one-time setting in After Effects to allow unsigned panels. A signed build will install normally from the [releases page](https://github.com/melthedevv/FrameCore/releases).
+No signed build is published yet, so the current test build needs a one-time setting in After Effects to allow unsigned panels. A signed build will install normally from the [project page](https://github.com/melthedevv/FrameCore).
 
 ## Adding keys
 
@@ -149,7 +149,7 @@ Every error message is a complete sentence with a next step. If one is not clear
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/logo/png/framecore-wordmark-1200.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://links.moonlit.onl/uploads/1792964805050-9kppdj.png">
     <source media="(prefers-color-scheme: light)" srcset="assets/logo/png/framecore-wordmark-light-1200.png">
     <img src="assets/logo/png/framecore-wordmark-light-1200.png" alt="FrameCore" width="420">
   </picture>
@@ -157,7 +157,7 @@ Every error message is a complete sentence with a next step. If one is not clear
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/logo/png/framecore-tagline-1600.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://links.moonlit.onl/uploads/1792964803585-fpjkan.png">
     <source media="(prefers-color-scheme: light)" srcset="assets/logo/png/framecore-tagline-light-1600.png">
     <img src="assets/logo/png/framecore-tagline-light-1600.png" alt="AI animation for After Effects" width="560">
   </picture>
