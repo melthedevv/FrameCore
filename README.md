@@ -10,49 +10,54 @@
   </picture>
 </p>
 
-<p align="center"><b>AI animation for After Effects.</b><br>From prompt to animation.</p>
+<p align="center"><b>AI animation for After Effects.</b></p>
 
 <p align="center">
-  After Effects 2024–2026 · Windows & macOS · Free models by default
+  <img src="https://img.shields.io/badge/status-coming%20soon-8B5CF6?style=for-the-badge" alt="Status: Coming Soon">
+</p>
+
+<p align="center">
+  After Effects 2024–2026 &nbsp;·&nbsp; Windows & macOS &nbsp;·&nbsp; Free models by default
 </p>
 
 ---
 
-> **Status: In development.** Follow the repository for updates.
+## Overview
 
-## What it is
-
-FrameCore is a panel for Adobe After Effects. Describe the animation you want, press Generate, and FrameCore builds it inside After Effects: real layers, real keyframes, real expressions.
+FrameCore is an After Effects panel that turns a written description into a finished animation. Describe what you want, press Generate, and FrameCore builds it directly inside After Effects as real layers, keyframes, and expressions.
 
 **Prompt → Generate → Animate.**
 
-## Two ways to get your result
+## Availability
 
-| Mode | What you get |
+**Coming soon.** FrameCore is currently in development and has not been released. Watch this repository for the release announcement.
+
+## Output modes
+
+| Mode | Result |
 |---|---|
 | **Build in AE** | The animation is created in your active composition as fully editable layers, keyframes, and expressions. |
-| **MP4 only** | FrameCore builds the animation, renders it with After Effects' own renderer, and hands you the finished MP4. |
+| **MP4 only** | FrameCore builds the animation, renders it with After Effects' own renderer, and delivers the finished MP4. |
 
-Both modes use the same build, so the result is identical. Choose with one toggle.
+Both modes share the same build process, so the output is identical. A single toggle switches between them.
 
-## Features
+## Capabilities
 
-**Real animation, not a render of something else.** FrameCore works natively inside After Effects. What it generates is what you would have built by hand, ready to refine.
+- **Native animation.** Everything is built inside After Effects, so the result is editable like any project you create by hand.
+- **Multi-provider AI.** Connect your own API key for Groq, OpenRouter, or NVIDIA NIM.
+- **Intelligent routing.** FrameCore selects the most capable model available across your providers. If a provider times out or reaches its quota, it continues with the same model on another provider, then moves to the next best model.
+- **Free by default.** Only free models are used unless you enable paid models in Settings, which prevents unexpected charges.
+- **Manual selection.** Choose a specific provider and model whenever you prefer.
+- **Privacy.** API keys remain on your machine. FrameCore has no accounts, no telemetry, and no backend.
+- **Native panel experience.** Docks like any After Effects panel, with dark and light themes.
 
-**Multi-provider AI.** Bring your own API key for any of:
-- Groq
-- OpenRouter
-- NVIDIA NIM (build.nvidia.com)
+## Supported providers
 
-**Smart routing.** FrameCore picks the most powerful model available from the providers you have set up. If a provider times out or runs out of quota, it switches to the same model on another provider, then to the next best model.
-
-**Free by default.** Only free models are used unless you turn on paid models in Settings. No accidental charges.
-
-**Manual control.** Prefer a specific provider and model? Choose them yourself.
-
-**Private by design.** Your keys stay on your machine. No accounts, no telemetry, no backend.
-
-**Built to match your workflow.** Docks into After Effects like any native panel, with dark and light themes.
+| Provider | Access |
+|---|---|
+| Groq | Your own API key |
+| OpenRouter | Your own API key |
+| NVIDIA NIM (build.nvidia.com) | Your own API key |
 
 ## Requirements
 
@@ -60,14 +65,10 @@ Both modes use the same build, so the result is identical. Choose with one toggl
 - Windows or macOS
 - An API key from at least one supported provider (free tiers are available)
 
-## Installation
-
-Installation instructions arrive with the first release.
-
 ## Roadmap
 
-- Add-ons: build your own and plug them into FrameCore
-- Support for older After Effects versions
+- Add-ons: a system for building and plugging in your own extensions
+- Support for earlier After Effects versions
 - UXP version of the panel
 
 ## Credits
