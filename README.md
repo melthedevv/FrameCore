@@ -8,19 +8,13 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://links.moonlit.onl/uploads/1792964805050-9kppdj.png">
-    <source media="(prefers-color-scheme: light)" srcset="LIGHT_WORDMARK_URL">
-    <img src="LIGHT_WORDMARK_URL" alt="FrameCore" width="420">
+    <source media="(prefers-color-scheme: dark)" srcset="https://links.moonlit.onl/uploads/1792964160493-sidp8g.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://links.moonlit.onl/uploads/1792964159132-qddiag.png">
+    <img src="https://links.moonlit.onl/uploads/1792964159132-qddiag.png" alt="FrameCore" width="260">
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://links.moonlit.onl/uploads/1792964803585-fpjkan.png">
-    <source media="(prefers-color-scheme: light)" srcset="LIGHT_TAGLINE_URL">
-    <img src="LIGHT_TAGLINE_URL" alt="AI animation for After Effects" width="560">
-  </picture>
-</p>
+<p align="center"><b>AI animation for After Effects.</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-coming%20soon-8B5CF6?style=for-the-badge" alt="Status: Coming Soon">
@@ -86,6 +80,24 @@ Both modes share the same build process, so the output is identical. A single to
 - **Add-ons:** a system for building and plugging in your own extensions
 - **Earlier After Effects versions:** support beyond 2024
 - **UXP:** a UXP version of the panel
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://links.moonlit.onl/uploads/1792964805050-9kppdj.png">
+    <source media="(prefers-color-scheme: light)" srcset="LIGHT_WORDMARK_URL">
+    <img src="LIGHT_WORDMARK_URL" alt="FrameCore" width="420">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://links.moonlit.onl/uploads/1792964803585-fpjkan.png">
+    <source media="(prefers-color-scheme: light)" srcset="LIGHT_TAGLINE_URL">
+    <img src="LIGHT_TAGLINE_URL" alt="AI animation for After Effects" width="560">
+  </picture>
+</p>
 
 ## Credits
 
