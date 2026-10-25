@@ -101,8 +101,4 @@ Both modes share the same build process, so the output is identical. A single to
 
 ## Credits
 
-<p align="center">
-  <img src="https://links.moonlit.onl/uploads/1792964192938-dng53s.webp" alt="FrameCore mark" width="64">
-</p>
-
 Designed and built by **[melthedev](https://github.com/melthedevv)**.
