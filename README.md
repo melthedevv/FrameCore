@@ -4,9 +4,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://links.moonlit.onl/uploads/1792964296028-8lslac.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://links.moonlit.onl/uploads/1792964332365-gpfslx.png">
-    <img src="https://links.moonlit.onl/uploads/1792964332365-gpfslx.png" alt="FrameCore" width="420">
+    <source media="(prefers-color-scheme: dark)" srcset="https://links.moonlit.onl/uploads/1792964160493-sidp8g.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://links.moonlit.onl/uploads/1792964159132-qddiag.png">
+    <img src="https://links.moonlit.onl/uploads/1792964159132-qddiag.png" alt="FrameCore" width="420">
   </picture>
 </p>
 
