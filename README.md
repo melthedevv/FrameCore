@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://links.moonlit.onl/uploads/1792964177957-e0u292.png" alt="FrameCore" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://links.moonlit.onl/uploads/1792964177957-e0u292.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://links.moonlit.onl/uploads/1792964709672-soqtpc.png">
+    <img src="https://links.moonlit.onl/uploads/1792964709672-soqtpc.png" alt="FrameCore" width="100%">
+  </picture>
 </p>
 
 <p align="center">
